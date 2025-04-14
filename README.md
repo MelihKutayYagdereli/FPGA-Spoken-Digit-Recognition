@@ -5,7 +5,7 @@ Developed and implemented a complete spoken number recognition system on a Basys
 
 Skills involved: FPGA Design (VHDL), MATLAB, PCB Design (Altium Designer), Signal Processing, Analog Circuit Simulation (LTspice), UART Communication.
 
-This repository presents a senior design project that implements a spoken digit recognition pipeline on a Basys-3 FPGA. It covers:
+This repository covers:
 
 Lab-DEBUG: UART-based data transfer between FPGA and MATLAB
 
